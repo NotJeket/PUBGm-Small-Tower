@@ -1,4 +1,4 @@
-## PUBGm Small Tower V1 ##
+## PUBGm Small Tower ##
 
 **Description**
 
