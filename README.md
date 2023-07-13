@@ -69,7 +69,7 @@ python TOWER.py
 
 **Flowchart:**
 
-![image](https://github.com/NotJeket/PUBGm-Tower-V1/assets/37781149/08f4753d-a17a-42b4-b492-79dbdb97d51d)
+![code2flow_fKQ1Ml (3)](https://github.com/NotJeket/PUBGm-Small-Tower/assets/37781149/5ac05fdd-1c39-4fba-96bc-05a0dde4bfb2)
 
 
 **License**
